@@ -4,11 +4,4 @@ Used Arduino IDE.
 
 | Visualisation   |    Module | 
 |-----------------|:-------------:|
-| col 1 is        |  left-aligned |
-
-    
-
-# Iduino Module
-![Iduino Linefinder Module](linefinder.jpeg)
-# Visualisation
-![Visual](image.png)
+| ![Visual](image.png)       | ![Iduino Linefinder Module](linefinder.jpeg) |
